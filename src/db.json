@@ -1,0 +1,25 @@
+{
+  "contragents": [
+    {
+      "id": "123",
+      "name": "name",
+      "inn": "123",
+      "kpp": "123",
+      "address": "address"
+    },
+    {
+      "id": "1234",
+      "name": "name1",
+      "inn": "1234",
+      "kpp": "1234",
+      "address": "address1"
+    },
+    {
+      "id": "12345",
+      "name": "name2",
+      "inn": "12345",
+      "kpp": "12345",
+      "address": "address2"
+    }
+  ]
+}
